@@ -1,0 +1,18 @@
+{
+    "name": "@obs/sdk",
+    "version": "0.1.0",
+    "description": "JavaScript SDK for obs error tracking (Bun/Node.js/Browser)",
+    "type": "module",
+    "main": "./src/index.ts",
+    "module": "./src/index.ts",
+    "types": "./src/index.ts",
+    "exports": {
+        ".": "./src/index.ts"
+    },
+    "scripts": {
+        "test": "bun test"
+    },
+    "devDependencies": {
+        "bun-types": "latest"
+    }
+}
