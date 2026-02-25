@@ -77,7 +77,7 @@ func TestCaptureStack(t *testing.T) {
 	}
 	found := false
 	for _, f := range stack {
-		if f.Function == "github.com/alexis-bouchez/obs/sdk/go.TestCaptureStack" {
+		if f.Function == "github.com/alexisbouchez/observability-prototype/sdk/go.TestCaptureStack" {
 			found = true
 			break
 		}

@@ -1,3 +1,3 @@
-module github.com/alexis-bouchez/obs/sdk/go
+module github.com/alexisbouchez/observability-prototype/sdk/go
 
 go 1.21

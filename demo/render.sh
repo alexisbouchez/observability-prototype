@@ -421,7 +421,7 @@ ${DIM}|              PHP server · Go SDK · PHP SDK · JS SDK
 ${DIM}|                  SQLite storage · Dark dashboard
 ${DIM}|
 ${DIM}|
-${DIM}|                github.com/alexis-bouchez/obs"
+${DIM}|                github.com/alexisbouchez/observability-prototype"
     render_frame
     hold 180
 }

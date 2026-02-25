@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	obs "github.com/alexis-bouchez/obs/sdk/go"
+	obs "github.com/alexisbouchez/observability-prototype/sdk/go"
 )
 
 func main() {
