@@ -2,7 +2,7 @@
 
 A minimal, self-hosted error tracking platform. Think Sentry, but simple enough to fit in a single repo.
 
-https://github.com/alexisbouchez/observability-prototype/raw/master/demo.mp4
+<video src="https://github.com/alexisbouchez/observability-prototype/raw/master/demo.mp4" controls autoplay muted loop width="100%"></video>
 
 ## Architecture
 
